@@ -1,0 +1,7 @@
+This file is created by vi command
+
+
+it is created in trial branch
+
+its name is seventhfile.txt
+
