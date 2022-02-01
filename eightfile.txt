@@ -1,0 +1,3 @@
+this is a file created by dev3
+
+cheking git fetch
