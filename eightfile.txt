@@ -2,3 +2,5 @@
 this is a file created by dev3
 making changes by dev2
 cheking git fetch
+
+changes made by dev1 
